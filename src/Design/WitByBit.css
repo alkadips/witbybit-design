@@ -1,0 +1,227 @@
+.student{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #242424;
+
+}
+.header-wrapper{
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.pencil-list{
+    width: 18px;
+    height: 18px;
+}
+.profile-img-css{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.gmail{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+color: #7F878A;
+}
+.input-text{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+letter-spacing: 1px;
+text-transform: uppercase;
+border-radius: 7px;
+    border: 2px solid #2CA4D8;
+    margin-top: 12px;
+    padding: 0 20px 0 21px;
+}
+.showing7{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #242424;
+    margin-top: 15px;
+}
+.school-space{
+    font-family: 'Passion One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    color: #2CA4D8;
+    font-weight: bold;
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7px;
+}
+.li-list{
+    padding: 10px;
+}
+.li-list-student{
+    background: #c6dde7;
+    color: #2CA4D8;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+}
+.ul-wrapper{
+    list-style: none;
+    padding: 0px;
+    margin-top: 70px;
+}
+.logo-wrapper{
+    margin-top: 30px;
+}
+.left-wrapper{
+    padding:"0 0px 0 80px";
+    background: #FFFFFF;
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+margin-top: -30px;
+padding: 0 0 0 40px;
+height: 880px;
+}
+.profile-wrapper{
+    margin-top: 276px;
+}
+input::-webkit-input-placeholder {
+    color: #2CA4D8!important;
+    }
+table{
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+}
+.logo{
+    width: 60px;
+height: 48px;
+left: 30px;
+top: 40px;
+background: #FFBF3F;
+border-radius: 8px;
+}
+.passed{
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 2px 8px;
+width: 62px;
+height: 20px;
+background: #2CBF6E;
+border-radius: 16px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+text-align: center;
+letter-spacing: 0.25px;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-top: 10px;
+}
+.failed{
+    flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 2px 8px;
+width: 62px;
+height: 20px;
+background: #F24643;
+border-radius: 16px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+text-align: center;
+letter-spacing: 0.25px;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-top: 10px;
+}
+.excellent{
+    width: 67px;
+height: 18px;
+left: 1221px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+color: #2CBF6E;
+}
+.poor{
+    width: 34px;
+height: 18px;
+left: 1221px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+color: #F24643;
+}
+.average{
+width: 60px;
+height: 18px;
+left: 1221px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+color: #2CA4D8;
+}
+.table-header-main{
+background: #F1F4F8;
+border-radius: 10px 10px 0px 0px;
+color: #242424;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+width: 105px;
+height: 18px;
+}
+.pencil{
+    color: #2CA4D8;
+    margin-left: 10px;
+}
+.add-button{
+padding: 8px 32px;
+gap: 8px;
+width: 123px;
+height: 42px;
+left: 1293px;
+top: 40px;
+border: none;
+color: white;
+background: #2CA4D8;
+box-shadow: 0px 2px 20px rgba(56, 181, 235, 0.2);
+border-radius: 10px;
+}
+td,th{
+    border-bottom: 1px solid #E5E5E5;
+    padding: 10px;
+}
+.pencil-list-student{
+    margin-left: 10px;
+    margin-top: 10px;
+}
